@@ -1,0 +1,48 @@
+@import-normalize;
+@import "~antd/dist/antd.css";
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+.price-color,
+.ant-card-meta-description,
+.ant-list-item-meta-description {
+  color: #ebc471 !important;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+.custom-error-button.ant-btn {
+  padding-left: 1.8rem;
+  padding-right: 1.8rem;
+}
+
+.custom-error-button.ant-btn {
+  &:hover,
+  &:active,
+  &:focus {
+    color: white !important;
+    border-color: white !important;
+    background: #f5222d !important;
+  }
+  @media (max-width: 490px) {
+    color: white !important;
+    border-color: white !important;
+    background: #f5222d !important;
+    padding: 0;
+  }
+}
+
+.rccs {
+  margin: 0;
+  @media (max-width: 768px) {
+    margin: 0 auto;
+  }
+}

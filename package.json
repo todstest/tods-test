@@ -1,0 +1,57 @@
+{
+  "name": "tods-test",
+  "version": "1.0.1",
+  "homepage": "http://todstest.github.io/tods-test",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.21.4",
+    "axios": "^0.19.0",
+    "easy-peasy": "^3.0.1",
+    "hookrouter": "^1.2.3",
+    "node-sass": "^4.12.0",
+    "payment": "^2.3.0",
+    "polished": "^3.4.1",
+    "react": "^16.9.0",
+    "react-card-flip": "^0.8.1",
+    "react-confetti": "^4.0.1",
+    "react-credit-cards": "^0.7.0",
+    "react-dom": "^16.9.0",
+    "react-helmet": "^5.2.1",
+    "react-image-magnify": "^2.7.4",
+    "react-redux": "^7.1.0",
+    "react-scripts": "3.0.1",
+    "react-use": "^11.0.2",
+    "styled-components": "^4.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "babelMacros": {
+    "styledComponents": {
+      "pure": true
+    }
+  }
+}
