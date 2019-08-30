@@ -5,13 +5,13 @@
 ## Installation
 
 ```
-yarn install
+npm install
 ```
 
 ## Usage
 
 ```
-yarn start
+npm start
 ```
 
 ## Features
