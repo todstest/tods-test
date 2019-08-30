@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tods-test/static/css/main.54a0162f.chunk.css",
+    "main.js": "/tods-test/static/js/main.68c35258.chunk.js",
+    "main.js.map": "/tods-test/static/js/main.68c35258.chunk.js.map",
+    "runtime~main.js": "/tods-test/static/js/runtime~main.626b9c07.js",
+    "runtime~main.js.map": "/tods-test/static/js/runtime~main.626b9c07.js.map",
+    "static/css/2.3fe6b89b.chunk.css": "/tods-test/static/css/2.3fe6b89b.chunk.css",
+    "static/js/2.33afd3d4.chunk.js": "/tods-test/static/js/2.33afd3d4.chunk.js",
+    "static/js/2.33afd3d4.chunk.js.map": "/tods-test/static/js/2.33afd3d4.chunk.js.map",
+    "static/js/3.7bee5ae8.chunk.js": "/tods-test/static/js/3.7bee5ae8.chunk.js",
+    "static/js/3.7bee5ae8.chunk.js.map": "/tods-test/static/js/3.7bee5ae8.chunk.js.map",
+    "index.html": "/tods-test/index.html",
+    "precache-manifest.8e0dacddb81da7cc61fa5fba57036523.js": "/tods-test/precache-manifest.8e0dacddb81da7cc61fa5fba57036523.js",
+    "service-worker.js": "/tods-test/service-worker.js",
+    "static/css/2.3fe6b89b.chunk.css.map": "/tods-test/static/css/2.3fe6b89b.chunk.css.map",
+    "static/css/main.54a0162f.chunk.css.map": "/tods-test/static/css/main.54a0162f.chunk.css.map",
+    "static/media/add_to_cart_2.5d862cae.svg": "/tods-test/static/media/add_to_cart_2.5d862cae.svg",
+    "static/media/double_coat_beige.webp": "/tods-test/static/media/double_coat_beige.23a27af8.webp",
+    "static/media/double_coat_beige_alt.webp": "/tods-test/static/media/double_coat_beige_alt.d8bfde94.webp",
+    "static/media/double_coat_blue.webp": "/tods-test/static/media/double_coat_blue.7b81c759.webp",
+    "static/media/double_coat_blue_alt.webp": "/tods-test/static/media/double_coat_blue_alt.85964eb3.webp",
+    "static/media/double_coat_brown.webp": "/tods-test/static/media/double_coat_brown.7608c637.webp",
+    "static/media/double_coat_brown_alt.webp": "/tods-test/static/media/double_coat_brown_alt.6d92b492.webp",
+    "static/media/double_coat_grey.webp": "/tods-test/static/media/double_coat_grey.08568d22.webp",
+    "static/media/double_coat_grey_alt.webp": "/tods-test/static/media/double_coat_grey_alt.dd24421d.webp"
+  }
+}
